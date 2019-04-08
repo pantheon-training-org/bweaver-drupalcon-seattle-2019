@@ -1,0 +1,14 @@
+uuid: 5224787b-4efb-4aa1-acc2-af0ae57fb3cc
+name: bweaver-drupalcon-seattle-2019
+mail: andrew+drupalcon-seattle-2019@pantheon.io
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
